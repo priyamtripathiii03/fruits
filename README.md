@@ -38,3 +38,4 @@ The Center widget helps you position other widgets precisely in the center of th
 These core widgets provide a strong foundation for crafting compelling app designs. As you delve deeper into Flutter development, explore more advanced widgets for layouts, animations, user input, and more. Remember, the beauty of Flutter lies in its flexibility. Experiment with different widget combinations and styling options to bring your design vision to life!
 
 <img src="https://github.com/priyamtripathiii03/fruits/assets/149374259/05023b3e-b36c-4fc1-a8f8-de0ef625440a" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src= "https://github.com/priyamtripathiii03/flutterprojects/assets/149374259/87e95e81-1424-47cc-b2f0-c88350eb8353" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
