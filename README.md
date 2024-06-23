@@ -10,7 +10,7 @@ The Scaffold widget serves as the foundation for most Flutter app layouts, parti
 #### Optional elements: You can incorporate a BottomNavigationBar for easy navigation between screens and a FloatingActionButton for prominent actions.
 ## Crafting the App Bar:
 
-The #### AppBar widget defines the header section at the top of your screen. You can customize it using various properties:
+The AppBar widget defines the header section at the top of your screen. You can customize it using various properties:
 
 #### backgroundColor: Set the background color to match your app's theme or create a contrasting element.
 #### title: Define the text displayed in the center. This is typically your app's name or the current screen title.
